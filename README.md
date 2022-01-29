@@ -8,5 +8,4 @@
 Buskercommcoin/Buskercommcoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-BuskerCommunityCoin will help buskers and artists around the world and support them to promote the art they create.
+#Web3 Ecosystem for Art Industry #music #art #artists #P2E | $BKC️
