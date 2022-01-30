@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Buskercommcoin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Buskercommcoin/Buskercommcoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Buskercommcoin token (ticker $BKC) is a DeFi token hosted on the Binance Smart Chain (BSC).
+$BKC is the official currency of our ecosystem
+Buskercommcoin token is born to support artists through the services offered by our platforms
+or through the creation of services with our token through the blockchain
 #Web3 Ecosystem for Art Industry #music #art #artists #P2E | $BKC️
